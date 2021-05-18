@@ -37,8 +37,6 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 </details>
 
-[website]: https://webtricks-master.ru/
-[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
-[linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
-[instagram]: https://www.instagram.com/corvaxv/
-[vk]: https://vk.com/vladislavkalachov
+[youtube]: https://www.youtube.com/channel/UCWHcnUPVqVaOq97Hf_4YImQ
+[instagram]: https://www.instagram.com/ghoulsssnoranked/?hl=ru
+[vk]: https://vk.com/itsukami
