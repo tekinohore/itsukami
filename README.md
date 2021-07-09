@@ -29,7 +29,7 @@
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeItsukami GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
     <br />
-    <img align="left" alt="codeItsukami GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
+                                                                                                          <img align="left" alt="codeItsukami GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCWHcnUPVqVaOq97Hf_4YImQ
