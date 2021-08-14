@@ -1,9 +1,9 @@
-### Штош, Меня зовут Артём, Арно, Ян... Кажды называет по разному.
+### Well, my name is Artyom, Arno, Yan... Each calls differently.
 
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
 
 
-### Полезные ссылки:
+### Useful links:
 
 [<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -11,7 +11,7 @@
 
 <br />
 
-### Языки и инструменты:
+### Languages and tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -33,5 +33,5 @@
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCWHcnUPVqVaOq97Hf_4YImQ
-[instagram]: https://www.instagram.com/ghoulsssnoranked/?hl=ru
+[instagram]: https://www.instagram.com/itsukamizxcursed/
 [vk]: https://vk.com/itsukami
