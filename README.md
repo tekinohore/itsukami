@@ -1,5 +1,5 @@
-### Well, my name is Artyom... Each calls differently.
-### I am a RU/EU developer
+### Well, my name is Artyom... Each calls differently. 🤡
+### I am a RU/EU developer 🥵 
 
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
 
