@@ -22,17 +22,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-
-<br />
-<br />
-
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeItsukami GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-                                                                                                          <img align="left" alt="codeItsukami GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
-
 [youtube]: https://www.youtube.com/channel/UCWHcnUPVqVaOq97Hf_4YImQ
 [instagram]: https://www.instagram.com/itsukamizxcursed/
 [vk]: https://vk.com/itsukami
